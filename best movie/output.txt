@@ -1,0 +1,3 @@
+﻿in movie category 科幻, 美国,日本,英国 are three locations with most movie amount, taking part of 41.30%,41.30%,23.91% percent of the total movie amount respectively.
+in movie category 爱情, 美国,日本,中国大陆 are three locations with most movie amount, taking part of 27.27%,18.18%,12.73% percent of the total movie amount respectively.
+in movie category 悬疑, 英国,美国,日本 are three locations with most movie amount, taking part of 67.50%,17.50%,12.50% percent of the total movie amount respectively.
